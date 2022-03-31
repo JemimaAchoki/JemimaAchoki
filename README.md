@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JemimaAchoki
 - 👀 I’m interested in cooking, coding and reading
 - 🌱 I’m currently learning Big Data and Digital Futures at the Unviersity of Warwick
-- 💞️ I’m looking to collaborate on ANYTHING!
+- 💞️ I’m looking to collaborate on data projects!
 - 📫 How to reach me email at jemimaachoki@gmail.com
 
 <!---
